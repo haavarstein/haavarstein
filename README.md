@@ -14,7 +14,11 @@ I'm a Principal Endpoint Platform Engineer and Microsoft Most Valuable Professio
 
 I specialize in treating endpoint management as software engineering by building automation-first solutions using Microsoft Intune, Microsoft Graph, PowerShell, GitHub, APIs, and AI-assisted development.
 
-My passion is eliminating operational toil through reusable automation, enterprise application packaging, endpoint telemetry, and scalable deployment pipelines.
+I build automation-first endpoint platforms that scale.
+
+My work combines Microsoft Intune, Microsoft Graph, PowerShell, GitHub, APIs, and AI-assisted development to eliminate operational toil, improve compliance, and simplify enterprise endpoint management.
+
+I enjoy building open-source tools that help IT teams automate repetitive work and gain deeper visibility into their endpoint environments.
 
 ---
 
