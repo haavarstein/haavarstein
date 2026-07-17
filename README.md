@@ -2,6 +2,12 @@
 
 ## Principal Endpoint Platform Engineer
 
+![Profile Views](https://komarev.com/ghpvc/?username=haavarstein)
+
+![GitHub followers](https://img.shields.io/github/followers/haavarstein?style=social)
+
+![GitHub stars](https://img.shields.io/github/stars/haavarstein?style=social)
+
 Microsoft MVP (10 Years) • Microsoft Intune • Microsoft Graph • Open Source • AI Automation
 
 > **Engineering the Future of Enterprise Endpoints with Microsoft Intune, Microsoft Graph, Open Source & AI.**
