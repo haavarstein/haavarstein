@@ -40,7 +40,7 @@ Enterprise endpoint engineering dashboard powered by Microsoft Graph, PowerShell
 
 ## 🤖 Automation Framework Community Edition
 
-Enterprise PowerShell automation framework for Microsoft Intune and Configuration Manager.
+Open-source PowerShell framework for enterprise endpoint automation and application packaging.
 
 **Features**
 
@@ -58,7 +58,7 @@ Enterprise PowerShell automation framework for Microsoft Intune and Configuratio
 
 ## 📦 Enterprise Applications
 
-Production-ready Microsoft Intune application packages.
+Curated collection of production-ready Microsoft Intune application packages and deployment automation.
 
 🔗 https://github.com/haavarstein/Applications
 
@@ -67,15 +67,8 @@ Production-ready Microsoft Intune application packages.
 # Professional Recognition
 
 - 🏅 Microsoft Most Valuable Professional (10 Years)
-- 🏅 Microsoft Intune MVP
-- 🏅 Windows 365 MVP
-- 🏅 Azure Virtual Desktop MVP
-- 🏅 Cloud & Datacenter Management MVP
 - 🏅 Nerdio Valued Professional (NVP)
 - 🏅 Citrix Technology Professional (CTP)
-- 🏅 VMware EUC Champion
-- 🏅 VMware vExpert
-- 🏅 Nutanix Technology Champion
 - 🏅 Parallels VIPP
 
 ---
@@ -86,10 +79,10 @@ Production-ready Microsoft Intune application packages.
 
 - Microsoft Intune
 - Microsoft Graph
+- Microsoft Entra ID
 - Windows Autopilot
 - Windows 365
 - Azure Virtual Desktop
-- Microsoft Entra ID
 - Microsoft Configuration Manager
 
 ### Automation
@@ -112,18 +105,13 @@ Production-ready Microsoft Intune application packages.
 
 ---
 
-# 🎯 Current Focus
+# Current Focus
 
-Building the next generation of enterprise endpoint engineering through:
-
-- Microsoft Intune
-- Microsoft Graph
-- AI Automation
-- Open Source
-- Endpoint Telemetry
-- Enterprise Application Packaging
-- GitHub
-- PowerShell
+- Building modern endpoint engineering platforms
+- Automating enterprise application packaging
+- Expanding Microsoft Graph integrations
+- Developing AI-assisted engineering workflows
+- Contributing to open-source endpoint tooling
 
 ---
 
