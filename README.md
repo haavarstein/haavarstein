@@ -22,7 +22,7 @@ I enjoy building open-source tools that help IT teams automate repetitive work, 
 
 ## 📊 Intune Dashboard
 
-Enterprise Microsoft Intune dashboard built with Microsoft Graph and AI-assisted engineering.
+Enterprise endpoint engineering dashboard powered by Microsoft Graph, PowerShell, and AI-assisted development.
 
 **Features**
 
