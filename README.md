@@ -1,8 +1,8 @@
-# Hi, I'm Trond Eirik Haavarstein 👋
+# Trond Eirik Haavarstein
 
 ## Principal Endpoint Platform Engineer
 
-**Microsoft MVP (10 Years)** • Microsoft Intune • Microsoft Graph • GitHub • AI Automation
+Microsoft MVP (10 Years) • Microsoft Intune • Microsoft Graph • Open Source • AI Automation
 
 > **Engineering the Future of Enterprise Endpoints with Microsoft Intune, Microsoft Graph, Open Source & AI.**
 
@@ -18,7 +18,7 @@ My passion is eliminating operational toil through reusable automation, enterpri
 
 ---
 
-# 🚀 Featured Open Source Projects
+# Featured Projects
 
 ## 📊 Intune Dashboard
 
@@ -64,7 +64,7 @@ Production-ready Microsoft Intune application packages.
 
 ---
 
-# 🏆 Professional Recognition
+# Professional Recognition
 
 - 🏅 Microsoft Most Valuable Professional (10 Years)
 - 🏅 Microsoft Intune MVP
