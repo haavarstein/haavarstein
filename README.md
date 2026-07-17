@@ -2,10 +2,12 @@
 
 ## Principal Endpoint Platform Engineer
 
+🏆 **Microsoft MVP (10 Consecutive Years)**
+
 ![GitHub followers](https://img.shields.io/github/followers/haavarstein?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/haavarstein?affiliations=OWNER&style=social)
 
-Microsoft MVP (10 Years) • Microsoft Intune • Microsoft Graph • Open Source • AI Automation
+**Microsoft Intune • Microsoft Graph • Open Source • AI Automation**
 
 > **Engineering the Future of Enterprise Endpoints with Microsoft Intune, Microsoft Graph, Open Source & AI.**
 
