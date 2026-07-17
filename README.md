@@ -8,17 +8,13 @@ Microsoft MVP (10 Years) • Microsoft Intune • Microsoft Graph • Open Sourc
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a Principal Endpoint Platform Engineer and Microsoft Most Valuable Professional (10 consecutive years) with more than 25 years of experience designing enterprise endpoint platforms, automation frameworks, and modern device management solutions.
 
-I specialize in treating endpoint management as software engineering by building automation-first solutions using Microsoft Intune, Microsoft Graph, PowerShell, GitHub, APIs, and AI-assisted development.
+I build automation-first endpoint platforms that scale by combining Microsoft Intune, Microsoft Graph, PowerShell, GitHub, APIs, and AI-assisted development to eliminate operational toil, improve compliance, and simplify enterprise endpoint management.
 
-I build automation-first endpoint platforms that scale.
-
-My work combines Microsoft Intune, Microsoft Graph, PowerShell, GitHub, APIs, and AI-assisted development to eliminate operational toil, improve compliance, and simplify enterprise endpoint management.
-
-I enjoy building open-source tools that help IT teams automate repetitive work and gain deeper visibility into their endpoint environments.
+I enjoy building open-source tools that help IT teams automate repetitive work, improve visibility, and modernize endpoint operations.
 
 ---
 
